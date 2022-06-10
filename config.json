@@ -1,0 +1,27 @@
+{
+    "bot": {
+        "token": "OTg0ODE1MDYzMTU4MzcwMzI1.GmoBoY.ejXhuxU0pLLl2Sq6BlNr8b9lfJ-pkRvNdXFKio",
+        "owner": "964572506650443816",
+        "prefix": ".",
+        "BotStatus": "Developer Squad",
+        "BotFooter": "Developer Squad",
+        "cooldown": 8
+    },
+    "channels": {
+        "voicechannel": "984809942009643048"
+    },
+    "BoranGkdn": {
+        "GuildID": "984809940235468850",
+        "OwnerRole": "984809940235468855"
+    },
+    "emojis": {
+        "tada": ":tada:",
+        "yes": ":white_check_mark:",
+        "no": ":x:"
+    },
+        "buttons": {
+            "çekiliş": "984809940298367056",
+            "etkinlik": "984809940298367057"
+        }
+    }
+    
